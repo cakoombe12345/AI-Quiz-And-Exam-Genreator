@@ -1,3 +1,11 @@
+## 🎓 Project Details
+
+- **Course:** Artificial Intelligence (AI)
+- **Project Title:** AI Quiz & Exam Generator System
+- **Deadline:** May 19, 2026
+- **Status:** Complete & Working
+
+
 # AI Quiz & Exam Generator System 🎓
 
 A professional, production-ready web application built with **Python**, **Streamlit**, and the **Google Gemini API** (`google-genai` SDK). This system allows educators, students, and trainers to instantly transform study materials—such as PDF documents or raw text—into custom, structured examinations.
@@ -126,9 +134,4 @@ https://github.com/user-attachments/assets/0c4b5935-7142-420d-b65e-8a6e1bd78377
 
 ---
 
-## 🎓 Project Details
 
-- **Course:** Artificial Intelligence (AI)
-- **Project Title:** AI Quiz & Exam Generator System
-- **Deadline:** May 19, 2026
-- **Status:** Complete & Working
