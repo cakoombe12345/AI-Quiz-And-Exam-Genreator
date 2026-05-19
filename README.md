@@ -81,7 +81,7 @@ This will launch the app in your default browser at `http://localhost:8501`.
 
 ---
 
-## 👥 Group Members 
+## 👥 Group Members ( Group Three )
 1. Hamse aadan mohamed 
 2. Sacad hariir ahmed 
 3. Hamse ismail iman 
@@ -117,7 +117,12 @@ https://github.com/user-attachments/assets/0c4b5935-7142-420d-b65e-8a6e1bd78377
 *Insert screenshots here to showcase your beautiful Dark SaaS dashboard.*
 
 ### 📄 Exported PDF Exam Example
-*Insert screenshots or samples of your exported ReportLab PDF exam here.*
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/9ae7e071-bbf3-41ca-b291-c40998db25c6" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-19 141423" src="https://github.com/user-attachments/assets/3c9d3040-09dd-49dc-b63a-402d2158266b" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-19 141417" src="https://github.com/user-attachments/assets/5b268cfa-1b82-4ac5-a634-f80a57f328d9" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-19 141426" src="https://github.com/user-attachments/assets/5e523804-540d-44a9-9778-aca1f6ecca47" />
+<img width="1920" height="1032" alt="Screenshot 2026-05-19 141413" src="https://github.com/user-attachments/assets/d39d8c6b-af9d-4a9d-a47f-698f39c25806" />
+
 
 ---
 
