@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/0c4b5935-7142-420d-b65e-8a6e1bd78377
 
 
 ### 🖥️ Main Dashboard Interface
-*Insert screenshots here to showcase your beautiful Dark SaaS dashboard.*
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f9caab70-c4e3-4188-aa4a-36591accb93d" />
 
 ### 📄 Exported PDF Exam Example
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/9ae7e071-bbf3-41ca-b291-c40998db25c6" />
